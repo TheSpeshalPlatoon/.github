@@ -8,7 +8,7 @@ We're currently recruiting! so if you're looking for a group to play with or wan
 
 ## 📖 License
 ✔️ Modify this mod/mission.   
-✔️ Redistribute this mod in part or whole privately / within a unit.  
-✔️ Redistribute this mod in part or whole publicly with credits linking to this page.   
-❌ Port this mod in part or whole to games other than ArmA.   
-❌ Use this mod for commercial purposes.
+✔️ Redistribute this mod/mission in part or whole privately / within a unit.  
+✔️ Redistribute this mod/mission in part or whole publicly with credits linking to this page.   
+❌ Port this mod/mission in part or whole to games other than ArmA.   
+❌ Use this mod/mission for commercial purposes.
